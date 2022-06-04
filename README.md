@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there! 👋🏼 soy Andrés.
 
-<!--
-**feltri08/feltri08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A menudo juego con microcontroladores y redes neuronales
 
-Here are some ideas to get you started:
+Suelo trabajar con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="32"/>Python
+
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"  width="32"/>C++
+
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png"  width="32"/>R
+
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png"  width="32"/>Matlab
+
+
+<br>
+<br>
+
+
+### Cualquier duda o sugerencia estoy totalmente abierto a usar el diálogo
+
+### Mis redes:
+
+- Linkedin: https://www.linkedin.com/in/juan-ortiz-65077620b/
