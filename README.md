@@ -23,6 +23,10 @@ Aprendiendo :
 <br>
 <br>
 
+![feltri08's GitHub stats](https://github-readme-stats.vercel.app/api?username=feltri08&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feltri08&layout=compact&show_icons=true&theme=gotham)
+
 
 ### Mis redes:
 
