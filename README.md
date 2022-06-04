@@ -1,6 +1,6 @@
 # Hello there! 👋🏼 soy Juan.
 
-### A menudo juego con microcontroladores y redes neuronales
+### A menudo Trabajo en desarrollo
 
 Suelo trabajar con:
 
@@ -16,8 +16,6 @@ Suelo trabajar con:
 <br>
 <br>
 
-
-### Cualquier duda o sugerencia estoy totalmente abierto a usar el diálogo
 
 ### Mis redes:
 
