@@ -12,6 +12,13 @@ Suelo trabajar con:
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png"  width="32"/>Matlab
 
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"  width="32"/>Java
+
+Aprendiendo :
+
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"  width="32"/>JavaScript //En proceso
+
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"  width="32"/>Angular //En proceso
 
 <br>
 <br>
