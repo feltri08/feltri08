@@ -1,4 +1,4 @@
-# Hello there! 👋🏼 soy Andrés.
+# Hello there! 👋🏼 soy Juan.
 
 ### A menudo juego con microcontroladores y redes neuronales
 
